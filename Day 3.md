@@ -1,4 +1,4 @@
-## Day 2
+## Day 3
 
 Link: https://x.com/KomSenapati/status/1742754506839069065?s=20
 
