@@ -20,7 +20,7 @@ code_victory_messages = [
     "Code warriors, rejoice! 🚀 Nailed it on #Day* of the #365DaysofCode Challenge with @scaler_official\n🏆 Today's success story: Q*",
     "Yo coders, what's up! 🚀 Crushed #Day* of the #365DaysofCode Challenge with @scaler_official\n🏆 Key highlight: Q*",
     "Hey coding crewmates! 🚀 Another milestone on #Day* of the #365DaysofCode Challenge with @scaler_official\n🏆 Today's triumph: Q*",
-    "Code on, friends! 🚀 Successfully journeyed through #Day* of the #365DaysofCode Challenge with @scaler_official\n🏆 Notable victory: Q,*"
+    "Code on, friends! 🚀 Successfully journeyed through #Day* of the #365DaysofCode Challenge with @scaler_official\n🏆 Notable victory: Q*"
 ]
 
 footer = "\n\nJoin the Scaler Discord community now! 🌐🚀 https://www.scaler.com/discord\n#scalerdiscord #codewithscaler #365daysofcodescaler  #365daysofcode"
