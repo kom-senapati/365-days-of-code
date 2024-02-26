@@ -1,6 +1,6 @@
 ## Day 56
 
-Link: https://x.com/kom_senapati/status/1761590193994231949?s=20
+Link: https://x.com/kom_senapati/status/1761944887509803129?s=20
 
 ### Approach:
 
